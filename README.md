@@ -1,3 +1,4 @@
+[![Main Integrity Protected](https://img.shields.io/badge/Main--Branch-Integrity--Enforced-green?style=flat-square&logo=github)](https://github.com/emotionalinfrastructure/wright-legal-enforcer-template)
 # Wright Legal Enforcer Template
 
 ## Quickstart
